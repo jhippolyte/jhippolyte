@@ -2,12 +2,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop efficient software solutions.\
-💻 &nbsp;I'm currently a Java/Angular fullstack developer working in freeleance.\
-💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
-✉️ &nbsp;You can send me a mail at contact@jhippolyte.com.\
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+💡 &nbsp;I like to explore new technologies and develop efficient software solutions.  
+💻 &nbsp;I'm currently a Java/Angular fullstack developer working in freeleance.  
+💬 &nbsp;Feel free to reach out to me for some interesting discussion.  
+✉️ &nbsp;You can send me a mail at contact@jhippolyte.com.  
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -28,12 +26,10 @@
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
-
 <p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://fr.linkedin.com/in/john-son-hippolyte-566006111"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:contact@jhippolyte.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.jhippolyte.com"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"/></a>
+<a href="https://fr.linkedin.com/in/john-son-hippolyte-566006111"><img src="https://img.shields.io/badge/-John--son-blue?style=flat&logo=linkedin&labelColor=blue"/></a>
+<a href="mailto:contact@jhippolyte.com"><img src="https://img.shields.io/badge/-contact%40jhippolyte.com-yellowgreen?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.jhippolyte.com"><img src="https://img.shields.io/badge/website-jhippolyte.com-green"/></a>
 </p>
 
 -----
